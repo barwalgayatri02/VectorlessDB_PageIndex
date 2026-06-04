@@ -1,4 +1,4 @@
-#Vectorless DB - PageIndex
+## Vectorless DB - PageIndex
 
 <img width="1031" height="330" alt="image" src="https://github.com/user-attachments/assets/d270e360-addd-45dc-bae7-2be87b311061" />
 
